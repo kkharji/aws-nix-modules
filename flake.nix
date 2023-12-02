@@ -6,6 +6,7 @@
     terranixModules = {
       imports = [
         ./modules/static.nix
+        ./modules/route.nix
 
       ];
     };
